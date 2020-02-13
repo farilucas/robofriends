@@ -14,3 +14,4 @@ const SearchBox = ({searchChange}) =>{
 }
 
 export default SearchBox;
+

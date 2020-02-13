@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"w",
+				"wrong"
+			],
+			[
+				"pro",
+				"promise"
+			],
+			[
+				"com",
+				"components"
+			],
+			[
+				"h",
+				"hasError"
+			],
+			[
+				"cl",
+				"className"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"font-s",
+				"font-style\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"fi",
+				"filteredRobots"
+			],
+			[
+				"se",
+				"searchChange"
+			],
+			[
+				"sea",
+				"searchfield"
+			],
+			[
+				"s",
+				"state"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Usuario/Documents/Udemy/Promise/exerciseAsyncAwait.js",
+		"/C/Users/Usuario/Documents/Udemy/Promise/test.js",
+		"/C/Users/Usuario/Documents/Udemy/Promise/exercisePromises.js",
+		"/C/Users/Usuario/Desktop/robofriends/robofriends/build/static/js/2.a98415d0.chunk.js",
+		"/C/Users/Usuario/Desktop/robofriends/robofriends/build/static/js/2.a98415d0.chunk.js.map",
+		"/C/Users/Usuario/Desktop/robofriends/robofriends/build/static/js/runtime-main.d4e5f5ba.js",
+		"/C/Users/Usuario/Desktop/robofriends/package.json",
+		"/C/Users/Usuario/Desktop/robofriends/src/components/cardlist.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/components/ErrorBoundry.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/containers/App.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/index.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/components/scroll.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/scroll.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/App.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/robots.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/Card.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/SearchBox.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/cardlist.js",
+		"/C/Users/Usuario/Desktop/robofriends/src/App.css",
+		"/C/Users/Usuario/Desktop/robofriends/src/index.css",
+		"/C/Users/Usuario/Desktop/robofriends/src/Hello.css",
+		"/C/Users/Usuario/Desktop/robofriends/src/Hello.js",
+		"/C/Users/Usuario/Documents/Udemy/Animaciones/bundle.js",
+		"/C/Users/Usuario/Documents/Udemy/Animaciones/script.js",
+		"/C/Users/Usuario/Documents/Udemy/Animaciones/index.html",
+		"/C/Users/Usuario/Documents/Udemy/Animaciones/style.css"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
